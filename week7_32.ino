@@ -29,7 +29,7 @@ void loop() {
     delay(1);
   }
 }
-/*
+
   if (UP == 0) {
 
     B += 5;
@@ -45,4 +45,4 @@ void loop() {
   //Serial.println(UP);
     Serial.println(B);
 }
-/*
+
